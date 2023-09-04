@@ -48,14 +48,14 @@
 					      <tr>
 					        <th>NO</th>                     <!-- Nomor -->
 					        <th>Name</th>                   <!-- Name -->
-                  <th>Process Name</th>           <!-- Process Name -->
+                  				<th>Process Name</th>           <!-- Process Name -->
 					        <th>Part Number</th>            <!-- Part Number  -->
 					        <th>Maker</th>                  <!-- Maker -->
-					        <th>IN</th>               <!-- Quantity (yg diambil)-->
-                            <th>OUT</th>
-                  <th>Balance</th>                <!-- sisa dari barang yg diambil -->
-                  <th>Location</th>               <!-- lokasi barang -->
-                  <th>Remark</th>
+					        <th>IN</th>               	<!-- Quantity (yg masuk)-->
+                            			<th>OUT</th>			<!-- Quantity (yg diambil) -->
+                  				<th>Balance</th>                <!-- sisa dari barang yg diambil -->
+                  				<th>Location</th>               <!-- lokasi barang -->
+                  				<th>Remark</th>			<!-- Keterangan -->	
 					      </tr>
 					    </thead>
 					    <tbody>
